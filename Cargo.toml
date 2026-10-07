@@ -32,7 +32,7 @@ log = "0.4.34"
 
 env_logger = "0.10.1"
 
-walkdir = "2.4.0"
+walkdir = "2.5.0"
 
 rayon = "1.12.0"
 
