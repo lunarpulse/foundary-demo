@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 # deps are separated by comment lines so concurrent single-bump PRs each
 # touch an isolated hunk (M0 gate run-2 lesson: adjacent-line edits conflict)
-serde = "1.0.193"
+serde = "1.0.229"
 
 serde_json = "1.0.108"
 
