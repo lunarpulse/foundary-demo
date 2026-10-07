@@ -22,7 +22,7 @@ clap = { version = "4.4.11", features = ["derive"] }
 
 rand = "0.8.5"
 
-regex = "1.10.2"
+regex = "1.13.1"
 
 uuid = { version = "1.6.1", features = ["v4"] }
 
