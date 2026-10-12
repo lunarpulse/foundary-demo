@@ -24,7 +24,7 @@ rand = "0.10.3"
 
 regex = "1.13.1"
 
-uuid = { version = "1.27.0", features = ["v4"] }
+uuid = { version = "1.28.0", features = ["v4"] }
 
 chrono = "0.4.45"
 
